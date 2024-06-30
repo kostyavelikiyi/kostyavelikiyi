@@ -14,19 +14,6 @@
 
 <br />
 
-Привет, меня зовут Костя, я примерно 6 лет в айти. Тут пытаюсь вести некотоыре свои проекты.
+Привет, меня зовут Костя, я в it c 2017 года. Тут можно найти некоторые мои pet проекты.
 
 <br />
-  
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [ ] Рефакторинг приложения на Flutter
-* [ ] Изучить k8s
-* [ ] Прокачаться в SRE
-<!-- TODO-IST:END -->
